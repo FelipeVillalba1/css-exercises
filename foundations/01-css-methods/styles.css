@@ -1,0 +1,29 @@
+ /* colores de las fuentes */
+#title,
+ p { 
+    color: white;
+     
+}
+/* colores de los fondos            */
+#title{
+    background-color: red;
+}
+ 
+p{
+    background-color: green;
+}
+button{
+    background-color:  orange;
+}
+/* tamaños de las fuentes */
+
+#title{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+p,button{
+    font-size: 18;
+}
